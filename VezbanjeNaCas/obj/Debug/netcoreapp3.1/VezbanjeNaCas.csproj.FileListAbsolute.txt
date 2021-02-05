@@ -1,0 +1,78 @@
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.exe
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.deps.json
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.json
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.dev.json
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csprojAssemblyReference.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfoInputs.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfo.cs
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csproj.CoreCompileInputs.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+D:\CODE ACADEMY .NET\5) January\29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.exe
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.deps.json
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.json
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csprojAssemblyReference.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\VezbanjeNaCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.exe
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.deps.json
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.json
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csprojAssemblyReference.cache
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Desktop\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.genruntimeconfig.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.exe
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.deps.json
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.json
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.dev.json
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csprojAssemblyReference.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfoInputs.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfo.cs
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csproj.CoreCompileInputs.cache
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+D:\CODE ACADEMY .NET\5) January\29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.exe
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.deps.json
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.json
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csprojAssemblyReference.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Desktop\KRIS DEV\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.genruntimeconfig.cache
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.exe
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.deps.json
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.json
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.runtimeconfig.dev.json
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\bin\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csprojAssemblyReference.cache
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.AssemblyInfo.cs
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.dll
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.pdb
+C:\Users\Kristijan\Downloads\TESTOT V2 i Vezbite od 29.01.2021\ZadaciOdCas\VezbanjeNaCas\obj\Debug\netcoreapp3.1\VezbanjeNaCas.genruntimeconfig.cache

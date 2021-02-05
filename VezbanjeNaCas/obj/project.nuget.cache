@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lHdTQhzWk+/AQS791/ojHflWyb9HTigdXoDKsXF5wfXJD9Y4sKgJ94Mtl0Ib0KKCZenTy7M2KMjhIWqJNx4dg==",
+  "success": true,
+  "projectFilePath": "D:\\CODE ACADEMY .NET\\5) January\\29.01.2021\\ZadaciOdCas\\VezbanjeNaCas\\VezbanjeNaCas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristijan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Kristijan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Kristijan\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
